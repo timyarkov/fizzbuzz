@@ -2,7 +2,7 @@
 <p>Simple fizzbuzz program. Support for - </p>
 <ul>
   <li>Custom Number of iterations</li>
-  <li>Custom Number of factors to consider</li>
+  <li>Custom Number of factors</li>
   <li>Custom Words</li>
 </ul>
 
