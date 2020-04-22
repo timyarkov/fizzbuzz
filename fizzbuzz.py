@@ -1,5 +1,3 @@
-import sys
-
 def fizzbuzz(num, divs_ls):
     """
 
